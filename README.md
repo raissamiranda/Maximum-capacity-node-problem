@@ -6,7 +6,7 @@ The first line has 3 values that indicate, respectively, the number of cities, t
 
 ## Example
 ### input
-'''
+```
 9 14 1
 1 2 2500
 2 3 4000
@@ -23,7 +23,7 @@ The first line has 3 values that indicate, respectively, the number of cities, t
 7 8 1000
 8 9 1500
 1 9
-'''
+``` 
 
 
 ## Execution
