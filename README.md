@@ -33,9 +33,12 @@ The first line has 3 values that indicate, respectively, the number of cities, t
 
 ## Execution
 To install the program, it is necessary to acess the diretory where the program is stored
-> cd -directory-
+``` 
+cd -directory-
+```
 
 Now, it's necessary to compile and execute the program using the commands:
-> g++ max_capacity.cpp
-
-> ./a.out -input_file.txt-
+```
+g++ max_capacity.cpp
+./a.out -input_file.txt-
+```
